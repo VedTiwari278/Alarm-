@@ -63,9 +63,9 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 10vh;
+    min-height: 19vh;
     color: rgb(224, 239, 10);
-    font-size: 20vh;
+    font-size: 10vh;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     margin-top: 60px;
