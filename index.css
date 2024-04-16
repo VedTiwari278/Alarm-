@@ -6,7 +6,7 @@
     /* background-color: #000000; */
 }
 
-@media (min-width: 200px) and (max-width: 768px) {
+@media (min-width: 100px) and (max-width: 768px) {
     body {
         justify-content: flex-start;
         align-items: flex-start;
